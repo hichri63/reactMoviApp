@@ -1,0 +1,20 @@
+.boxMov{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+   
+  
+}
+.imagMo{
+    
+    border:1px solid black;
+    height: 100px;
+  
+    
+}
+.container{
+    display: block;
+   
+    width: 80%;
+
+}
